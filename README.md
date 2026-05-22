@@ -6,7 +6,7 @@ AI-powered smart tailoring system with virtual body measurement, AI-based fit re
 #### Inclusive Customization for Disabled & Elderly
 
 <p align="center">
-  <img src="assets/screenshots/banner.png" width="100%" alt="AI Smart Tailoring Banner"/>
+  <img src="banner.png" width="100%" alt="AI Smart Tailoring Banner"/>
 </p>
 
 <p align="center">
