@@ -1,6 +1,6 @@
 # AIpowered-smart_tailoring
 AI-powered smart tailoring system with virtual body measurement, AI-based fit recommendation, adaptive fashion for disabled &amp; elderly people, and sustainable fashion technology.
-
+🔗 LIVE : https://smarttoilering.netlify.app/
 # 👔 AI-Powered Smart Tailoring
 ### Personalized Fashion for Everyone
 #### Inclusive Customization for Disabled & Elderly
