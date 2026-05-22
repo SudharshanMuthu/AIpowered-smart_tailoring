@@ -5,9 +5,8 @@ AI-powered smart tailoring system with virtual body measurement, AI-based fit re
 ### Personalized Fashion for Everyone
 #### Inclusive Customization for Disabled & Elderly
 
-# 🎥 Live Demo
-## AI Measurement Demo
-🔗 https://smarttoilering.netlify.app/
+# 🎥 Live Demo   🔗 https://smarttoilering.netlify.app/
+
 
 <p align="center">
   <img src="banner.png" width="100%" alt="AI Smart Tailoring Banner"/>
