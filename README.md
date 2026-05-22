@@ -318,6 +318,3 @@ This project is licensed under the MIT License.
 
 > “AI is transforming fashion into a smarter, more inclusive, and sustainable future.”
 
-
-
-<img width="1130" height="632" alt="image" src="https://github.com/user-attachments/assets/6acf6dba-d557-44a2-b053-ba0bc0471ba1" />
